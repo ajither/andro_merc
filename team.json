@@ -2,24 +2,28 @@
     {
         "name": "Bibin Mathew Joseph",
         "position": "CEO",
+        "description":"Hello Bibin",
         "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/bmjthumnailimage.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/giraffe.jpg"
     },
     {
         "name": "Tittu Varghese",
         "position": "CTO",
+        "description":"Hello Bibin",
         "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/tittuyhumbnail.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg"
     },
         {
         "name": "Abhijith Sudhakar",
         "position": "SEO",
+        "description":"Hello Bibin",
         "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/abhijiththumimage.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg"
     },
     {
         "name": "Ajith E R",
         "position": "Developer",
+        "description":"Hello Bibin",
         "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/ajiththumbimage.jpg",
         "image": "https://raw.githubusercontent.com/ajither/andro_merc/master/teammembers/Ajith.jpg"
     }
