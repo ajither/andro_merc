@@ -2,25 +2,25 @@
     {
         "name": "Bibin Mathew Joseph",
         "position": "CEO",
-        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_giraffe.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/bmjthumnailimage.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/giraffe.jpg"
     },
     {
         "name": "Tittu Varghese",
         "position": "CTO",
-        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_galah.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/tittuyhumbnail.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg"
     },
         {
         "name": "Abhijith Sudhakar",
         "position": "SEO",
-        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/teammembers/abhijith.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/abhijiththumimage.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg"
     },
     {
         "name": "Ajith E R",
         "position": "Developer",
-        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_dartfrog.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/ajiththumbimage.jpg",
         "image": "https://raw.githubusercontent.com/ajither/andro_merc/master/teammembers/Ajith.jpg"
     }
 ]
