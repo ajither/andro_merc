@@ -1,1 +1,22 @@
-
+[
+    {
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/bmjthumnailimage.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/giraffe.jpg",
+        "caption":"abcd"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/tittuyhumbnail.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg",
+        "caption":"abcd"
+    },
+        {
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/abhijiththumimage.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg",
+        "caption":"abcd"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/ajither/andro_merc/master/thumbnail/ajiththumbimage.jpg",
+        "image": "https://raw.githubusercontent.com/ajither/andro_merc/master/teammembers/Ajith.jpg",
+        "caption":"abcd"
+    }
+]
