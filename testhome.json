@@ -1,0 +1,121 @@
+{
+  "status": true,
+  "message": "User home data returned",
+  "blog": [
+    {
+      "_id": "57a8fc3cea0134b7fc7c99da",
+      "title": "SFO Beer Fest ",
+      "content": "Since 1984, the San Francisco International Beer Festival (SFIBF) has raised money for the Telegraph Hill Cooperative Nursery School (Tel-Hi). The event staff consists of the proud parents of Tel-Hi’s preschool students. They donate their time and efforts to bring you this historic San Francisco festival-the oldest beer festival on the west coast.",
+      "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82d5b508ace82027828491cdd5da6f79499.jpg",
+      "description": "Since 1984, the San Francisco International Beer Festival (SFIBF) has raised money for the Telegraph",
+      "timestamp": "2016-08-09 03:10:12",
+      "bookmark_status": true
+    },
+    {
+      "_id": "57a8fd89ea0134b9fc7c99db",
+      "title": "WIE ILC 2017",
+      "content": "Launched 3 years ago, the IEEE Women in Engineering International Leadership Conference (WIE ILC) provides professional women in technology, whether in industry, academia, or government, the opportunity to create communities that fuel innovation, facilitate knowledge sharing and provide support through highly interactive sessions designed to foster discussion and collaboration. WIE ILC focuses on providing leading-edge professional development for mid-level and senior women.",
+      "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82db7a1b92b4f84c040a819f80e4dfa14b3.jpg",
+      "description": "Launched 3 years ago, the IEEE Women in Engineering International Leadership Conference (WIE ILC) pr",
+      "timestamp": "2016-08-09 03:15:45",
+      "bookmark_status": true
+    },
+    {
+      "_id": "57a8fde3ea0134b7fc7c99db",
+      "title": "Google I/O 2017",
+      "content": "I/O Extended events include a variety of options for developers—from live streaming sessions to local demos, to hackathons, codelabs, and more. These events are hosted in your neighborhood by local developer communities.",
+      "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82da067ccbaa7135069b8a295af4c59d18a.jpg",
+      "description": "I/O Extended events include a variety of options for developers—from live streaming sessions to lo",
+      "timestamp": "2016-08-09 03:17:15",
+      "bookmark_status": false
+    }
+  ],
+  "recent_views": [
+    {
+      "property": {
+        "id": "12633246456adb1bfc5421d6863b517f8a50d",
+        "price": 12,
+        "type": "Outdoor",
+        "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82d638ee42577a5be7f4a0e47f9bc4e731f.jpg",
+        "name": "Valet Parking"
+      },
+      "owner": {
+        "name": "Tittu Varghese",
+        "image": "http://parkitapi.cloudapp.net/uploads/d49fcff54b608c183e1d27342f0f371aa1e6de41e359d152cbddc11f1662cc79.png"
+      },
+      "review": 4.5
+    },
+    {
+      "property": {
+        "id": "12633246456adb1bfc5421d6863b517f8a50d",
+        "price": 12,
+        "type": "Outdoor",
+        "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82d638ee42577a5be7f4a0e47f9bc4e731f.jpg",
+        "name": "Valet Parking"
+      },
+      "owner": {
+        "name": "Tittu Varghese",
+        "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82dd7dbb8c6c42fec534d14f5fbea40baf6.png"
+      },
+      "review": 4.5
+    },
+    {
+      "property": {
+        "id": "068563d8f7f63b3fe4f955e919e6ed1207916",
+        "price": 23,
+        "type": "Indoor",
+        "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82d721525ff5e49be8a42ebd6b03309e675.jpg",
+        "name": "Valet Parking"
+      },
+      "owner": {
+        "name": "Ajith ER",
+        "image": null
+      },
+      "review": null
+    },
+    {
+      "property": {
+        "id": "068563d8f7f63b3fe4f955e919e6ed1207916",
+        "price": 23,
+        "type": "Indoor",
+        "image": "uploads/7eb4df4c4e15f15e79f7815d9e02a82d721525ff5e49be8a42ebd6b03309e675.jpg",
+        "name": "Valet Parking"
+      },
+      "owner": {
+        "name": "Ajith ER",
+        "image": ""
+      },
+      "review": null
+    }
+  ],
+  "recent_searches": [
+    {
+      "street_name": "",
+      "city": "New York",
+      "state": "NY",
+      "country": "United States",
+      "display_name": " New York, NY, United States"
+    },
+    {
+      "street_name": "",
+      "city": "New York",
+      "state": "",
+      "country": "United States",
+      "display_name": " New York, United States"
+    },
+    {
+      "street_name": "",
+      "city": "",
+      "state": "",
+      "country": "United States",
+      "display_name": " United States"
+    },
+    {
+      "street_name": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "display_name": ""
+    }
+  ]
+}
